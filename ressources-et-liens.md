@@ -106,7 +106,19 @@ Vous pouvez contribuer à augmenter la valeur de cette liste de ressources en co
 - [123rf](https://fr.123rf.com)
 - [istockphoto](https://www.istockphoto.com/fr)
 
- ---
+## Inspirations
+
+### Visuel / Design 
+- [Dribbble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
+
+### Web
+- [Awwwards](https://www.awwwards.com/)
+- [CSS Desgin Awards](https://www.cssdesignawards.com)
+- [One Page Love](https://onepagelove.com)
+- [Hover States](https://www.hoverstat.es)
+- [Site Inspire](https://www.siteinspire.com) 
 
 ## Tutoriels / YouTube et autres
 [Grille CSS avec Benjamin Code](https://www.youtube.com/watch?v=uzcaGkJWBXk)
+[Actualités locales en communication marketing : Grenier aux nouvelles](https://www.grenier.qc.ca)
